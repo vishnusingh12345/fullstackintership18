@@ -1,0 +1,143 @@
+Attending the class for the entire duration is very very important to achieve your goal to built a 
+application of your choice.
+
+Application = Front End + Back End + Database.
+
+Is it good to be doing a web based internship.
+Yes. Everything now is online. Web. MERN Stack which
+
+
+MERN Application
+    Front End - HTML CSS JS Bootstrap
+        Design
+    JS - Ajax
+        Jquery
+        ReactJS 
+        AngularJS
+        vuejs
+
+
+    Back End - Nodejs = runtime env which is used to run your js code.
+     Express - It is a backend framework.
+        Development
+
+
+
+    Database - MongoDB - Documents
+        Storage
+
+
+fRAMEWORK - COLLECTION OF LIBRARIES = VARIOUS TASKS
+
+LIBRARY - SINGLE ASSEST - iT WILL PERFORM ONLY ONE TASK
+
+
+
+1960's American Army - Internet
+       Institutions all over the world - Internet
+       HTML - Document - Internet
+1980's - transfers the document.
+
+HTML Document - white and black
+
+CSS = Style sheet
+
+JS - Javascript - Dynamic content
+
+Bootstrap = framework which is based on HTML CSS JS
+
+
+Cust A = Ecommerce website = code
+After 3 months
+Cust B = Ecommerce Website = 
+
+
+
+Framework - Collection of common assests.
+
+
+My Introduction
+Your Introduction
+MERN Stack application - FrontEnd backend and Database
+LMS walkthrough - Done
+VS COde Install - Done
+Assignment document - lms portal - Done
+github - submit your assignments - Done
+
+Zeplin - Design [FrontEnd] - Done
+
+
+Course agenda - Done
+pivotal tracker - Done
+
+
+
+2 kinds of sessions - Internship and Mentorship - Done
+Internship - Sat and Sun
+            6 to 8 in the evening
+            we will work towards learning the contents about the course.
+Mentorship - Tue and Thru
+           7 to 8 in the evening
+           doubt clearing session if you stuck on assignments, concepts, 
+
+
+
+MERN application
+
+Front End - HTML
+
+Hyper Text Markup Language - It is document.
+
+Elements
+Each Element = Tag + Content
+
+
+
+Agile - Pivotal tracker
+
+Team - 4 people - 4 pages.
+Each person will work on a single page individually and combine them.
+
+Project = Ecommerce.
+
+list of products
+cart
+payment gateway
+
+3 small projects = combine them into a single big project.
+
+Agile = divide your project into small projects
+Small project = work on it. = deliver it.
+deliver it.
+
+
+
+1 user story - 1st step towards building our project.
+
+
+CSS = Cascading Style sheet
+3 types in which you can apply style on a HTML Element.
+
+Inline => on the HTML Element.
+Internal => Head of your HTML Document
+External => Seaprate CSS File.
+
+
+
+Div Tag = Group/Block Level ELement
+
+Span Tag = Inline Level Element
+
+
+<opening tag>content</closing tag>
+
+<tag pass the content inside the tag as attributes and values/>
+
+
+./  => current directory 
+././ => Directory in which your current directory is present
+
+option tag => list of values.
+Value = Each item in a option
+
+
